@@ -1,0 +1,7 @@
+{
+    "host": "https://zg-stplus-lab.cloud.databricks.com",
+    "token": "dapi6f635d09bb7c2e7e4093bb15848db266",
+    "cluster_id": "ac4f2677b84273dc",
+    "catalog": "stplus-lab",
+    "schema": "stplus-lab"
+} 
